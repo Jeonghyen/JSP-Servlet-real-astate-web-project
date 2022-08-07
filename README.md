@@ -46,7 +46,7 @@ __Tools__ <br>  <img src="https://img.shields.io/badge/Windows-007396?style=for-
 
 - 메인화면
 
-- 로그인
+- 회원가입
 
 - 매물 찾기
 
