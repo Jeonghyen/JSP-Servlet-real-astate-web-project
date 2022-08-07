@@ -48,19 +48,35 @@ __Tools__ <br>  <img src="https://img.shields.io/badge/Windows-007396?style=for-
 
 <img src = "https://user-images.githubusercontent.com/100847017/183305632-fd3946b4-e9de-40c4-b3fd-8769b8ca7a2d.gif" width="70%" height="70%">
 
-- 회원가입
 
 - 매물 찾기
+<img src = "https://user-images.githubusercontent.com/97499271/180633255-6c7740bc-a8f1-4e9d-a64c-fc84b89323fd.gif" width="70%" height="70%">
+
+
 
 - 중개사 마이페이지
-  - __개인정보 수정__
+  - 개인정보 수정
+  <br>
 <!-- ![개인정보수정](https://user-images.githubusercontent.com/100847017/183305160-c6016532-5ea6-42c4-accb-2e753917c0e6.gif) -->
-<img src = "https://user-images.githubusercontent.com/100847017/183305160-c6016532-5ea6-42c4-accb-2e753917c0e6.gif" width="70%" height="70%">
-
-- 중개사 알림
-
+  <img src = "https://user-images.githubusercontent.com/100847017/183305160-c6016532-5ea6-42c4-accb-2e753917c0e6.gif" width="70%" height="70%">
+  
+  
+  - 상담 처리
+  <img src = "https://user-images.githubusercontent.com/100847017/183307207-5b313be3-703a-4c1d-b99b-f31980a037fd.gif" width="70%" height="70%">
 
 - 계약 과정
+
+   - 일반회원 입주신청
+    <img src = "https://user-images.githubusercontent.com/100847017/183307213-83f51e51-fe23-447c-b6ce-acc43d96433a.gif" width="70%" height="70%">
+    <br>
+
+    - 중개사 계약서 작성
+    <img src = "https://user-images.githubusercontent.com/100847017/183307220-045e34c3-e975-4d37-82a9-80057457be58.gif" width="70%" height="70%">
+    <br>
+
+    - 계약 완료시 마이페이지에서 계약서 조회 가능
+    <img src = "https://user-images.githubusercontent.com/100847017/183307223-852814c9-a4e7-4910-925b-93bb2fa75eea.gif" width="70%" height="70%">
+    <br>
 
 
 
