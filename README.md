@@ -31,7 +31,7 @@ __Tools__ <br>  <img src="https://img.shields.io/badge/Windows-007396?style=for-
 ### :couple:팀원 및 구현 기능
 |이름|<div style="width:290px">구현 기능</div>|
 |------|--------------|
-|정혜인|중개사 - 마이페이지(개인정보, 보안, 거래 목록, 상담 목록) / 알림(계약요청, 상담요청)|
+|:star:정혜인|중개사 - 마이페이지(개인정보, 보안, 거래 목록, 상담 목록) / 알림(계약요청, 상담요청)|
 |김찬진|회원 - 알림(계약 요청), 관심 목록 / 중개사 - 매물 등록, 관리 / 공통 - 메인페이지, 후기게시판CRUD|
 |고수경|회원, 중개사, 관리자 - 로그인 및 로그아웃, 회원가입, 아이디 찾기, 비밀번호 찾기|
 |권민채|관리자 - 허위 매물 관리, 회원 활동상태 관리|
@@ -46,11 +46,19 @@ __Tools__ <br>  <img src="https://img.shields.io/badge/Windows-007396?style=for-
 
 - 메인화면
 
+<img src = "https://user-images.githubusercontent.com/100847017/183305632-fd3946b4-e9de-40c4-b3fd-8769b8ca7a2d.gif" width="70%" height="70%">
+
 - 회원가입
 
 - 매물 찾기
 
-- 마이페이지
+- 중개사 마이페이지
+  - __개인정보 수정__
+<!-- ![개인정보수정](https://user-images.githubusercontent.com/100847017/183305160-c6016532-5ea6-42c4-accb-2e753917c0e6.gif) -->
+<img src = "https://user-images.githubusercontent.com/100847017/183305160-c6016532-5ea6-42c4-accb-2e753917c0e6.gif" width="70%" height="70%">
+
+- 중개사 알림
+
 
 - 계약 과정
 
